@@ -21,9 +21,9 @@
     "test": "echo \"run tests from core\" "
   },
   "dependencies": {
-    "@wsy-cli-dev/utils": "^1.0.1-alpha.0",
+    "@wsy-cli-dev/utils": "^2.0.2-alpha.0",
     "lodash": "^4.17.21",
     "webpack": "5"
   },
-  "gitHead": "8ac557b827a2cf14a9c8b693209af0b7b1913a7e"
+  "gitHead": "305858ac62c24ec62cfaded34c876c4af60d3125"
 }

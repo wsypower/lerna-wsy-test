@@ -1,6 +1,6 @@
 {
   "name": "@wsy-cli-dev/utils",
-  "version": "1.0.1-alpha.0",
+  "version": "1.0.0",
   "description": "@wsy-cli-dev/utils",
   "author": "wsy <2553241022@qq.com>",
   "homepage": "",
@@ -14,12 +14,14 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/"
+    "registry": "https://registry.npm.taobao.org/",
+    "access": "public"
   },
   "scripts": {
     "test": "echo \"run tests from utils\" "
   },
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "gitHead": "8685ee7465452436c4c8a57857dfcc85f1e2e142"
 }

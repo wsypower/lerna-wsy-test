@@ -1,6 +1,6 @@
 {
   "name": "@wsy-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1-alpha.0",
   "description": "@wsy-cli-dev/core",
   "author": "wsy <2553241022@qq.com>",
   "homepage": "",
@@ -20,8 +20,8 @@
     "test": "echo \"run tests from core\" "
   },
   "dependencies": {
+    "@wsy-cli-dev/utils": "^1.0.1-alpha.0",
     "lodash": "^4.17.21",
-    "webpack": "5",
-    "@wsy-cli-dev/utils": "^1.0.0"
+    "webpack": "5"
   }
 }

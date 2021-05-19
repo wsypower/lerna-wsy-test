@@ -14,7 +14,6 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/",
     "access": "public"
   },
   "scripts": {
@@ -25,5 +24,5 @@
     "lodash": "^4.17.21",
     "webpack": "5"
   },
-  "gitHead": "305858ac62c24ec62cfaded34c876c4af60d3125"
+  "gitHead": "047ee3f4e35654750ccf5d1693cd71c7c82d09c4"
 }
